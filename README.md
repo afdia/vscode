@@ -1,5 +1,4 @@
-# code --list-extensions Ergebnis
-
+# code --list-extensions Result (see https://code.visualstudio.com/docs/editor/extension-gallery)
 ```
 aaron-bond.better-comments
 adashen.vscode-tomcat
