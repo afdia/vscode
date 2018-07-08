@@ -15,6 +15,7 @@ donjayamanne.githistory
 donjayamanne.javadebugger
 DotJoshJohnson.xml
 DSnake.java-debug
+eamodio.gitlens
 ecmel.vscode-html-css
 eg2.tslint
 eg2.vscode-npm-script
@@ -32,6 +33,7 @@ mubaidr.vuejs-extension-pack
 octref.vetur
 oysun.vuehelper
 Pivotal.vscode-spring-boot
+pranaygp.vscode-css-peek
 pverest.java-ide-pack
 redhat.java
 remimarsal.prettier-now
