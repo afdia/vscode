@@ -1,3 +1,6 @@
+# Keymap
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+
 # code --list-extensions Result (see https://code.visualstudio.com/docs/editor/extension-gallery)
 ```
 aaron-bond.better-comments
